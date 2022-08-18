@@ -1,0 +1,241 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/theophilemathius/Desktop/Misc/On desktop/Freelance Work/Projects/V2B-Orbis/Leadership-Assessment/ORBIS_Leadership-Assessment_FINAL Folder/Document fonts/AdobeFnt23.lst
+FileLength:6323
+FileModTime:679327532
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/theophilemathius/Desktop/Misc/On desktop/Freelance Work/Projects/V2B-Orbis/Leadership-Assessment/ORBIS_Leadership-Assessment_FINAL Folder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:678814987
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Bold
+FamilyName:Montserrat
+StyleName:Bold
+MenuName:Montserrat
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Bold
+WritingScript:Roman
+OutlineFileName:/Users/theophilemathius/Desktop/Misc/On desktop/Freelance Work/Projects/V2B-Orbis/Leadership-Assessment/ORBIS_Leadership-Assessment_FINAL Folder/Document fonts/Montserrat-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:235192
+FileModTime:627917894
+NameArray:0,Mac,4,Montserrat Bold
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Italic
+FamilyName:Montserrat
+StyleName:Italic
+MenuName:Montserrat
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Montserrat Italic
+WritingScript:Roman
+OutlineFileName:/Users/theophilemathius/Desktop/Misc/On desktop/Freelance Work/Projects/V2B-Orbis/Leadership-Assessment/ORBIS_Leadership-Assessment_FINAL Folder/Document fonts/Montserrat-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:237828
+FileModTime:627917894
+NameArray:0,Mac,4,Montserrat Italic
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Medium
+FamilyName:Montserrat
+StyleName:Medium
+MenuName:Montserrat Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Montserrat Medium
+WritingScript:Roman
+OutlineFileName:/Users/theophilemathius/Desktop/Misc/On desktop/Freelance Work/Projects/V2B-Orbis/Leadership-Assessment/ORBIS_Leadership-Assessment_FINAL Folder/Document fonts/Montserrat-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:230356
+FileModTime:627917894
+NameArray:0,Mac,4,Montserrat Medium
+NameArray:0,Win,1,Montserrat Medium
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-MediumItalic
+FamilyName:Montserrat
+StyleName:Medium Italic
+MenuName:Montserrat Medium
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:Montserrat Medium Italic
+WritingScript:Roman
+OutlineFileName:/Users/theophilemathius/Desktop/Misc/On desktop/Freelance Work/Projects/V2B-Orbis/Leadership-Assessment/ORBIS_Leadership-Assessment_FINAL Folder/Document fonts/Montserrat-MediumItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:239660
+FileModTime:627917894
+NameArray:0,Mac,4,Montserrat Medium Italic
+NameArray:0,Win,1,Montserrat Medium
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-SemiBold
+FamilyName:Montserrat
+StyleName:SemiBold
+MenuName:Montserrat SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Montserrat SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/theophilemathius/Desktop/Misc/On desktop/Freelance Work/Projects/V2B-Orbis/Leadership-Assessment/ORBIS_Leadership-Assessment_FINAL Folder/Document fonts/Montserrat-SemiBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:234056
+FileModTime:627917894
+NameArray:0,Mac,4,Montserrat SemiBold
+NameArray:0,Win,1,Montserrat SemiBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-SemiBoldItalic
+FamilyName:Montserrat
+StyleName:SemiBold Italic
+MenuName:Montserrat SemiBold
+StyleBits:1
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Montserrat SemiBold Italic
+WritingScript:Roman
+OutlineFileName:/Users/theophilemathius/Desktop/Misc/On desktop/Freelance Work/Projects/V2B-Orbis/Leadership-Assessment/ORBIS_Leadership-Assessment_FINAL Folder/Document fonts/Montserrat-SemiBoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:242672
+FileModTime:627917894
+NameArray:0,Mac,4,Montserrat SemiBold Italic
+NameArray:0,Win,1,Montserrat SemiBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MontserratAlternates-SemiBoldItalic
+FamilyName:Montserrat Alternates
+StyleName:SemiBold Italic
+MenuName:Montserrat Alternates SemiBold
+StyleBits:1
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Montserrat Alternates SemiBold Italic
+WritingScript:Roman
+OutlineFileName:/Users/theophilemathius/Desktop/Misc/On desktop/Freelance Work/Projects/V2B-Orbis/Leadership-Assessment/ORBIS_Leadership-Assessment_FINAL Folder/Document fonts/MontserratAlternates-SemiBoldItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:190496
+FileModTime:627917894
+NameArray:0,Mac,18,Montserrat Alternates SmBold It
+NameArray:0,Mac,4,Montserrat Alternates SemiBold Italic
+NameArray:0,Win,1,Montserrat Alternates SemiBold
+NameArray:0,Win,16,Montserrat Alternates
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica
+FamilyName:Swiss 721 SWA
+StyleName:Roman
+MenuName:Swiss 721 SWA
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Swiss 721 SWA
+WritingScript:Roman
+OutlineFileName:/Users/theophilemathius/Desktop/Misc/On desktop/Freelance Work/Projects/V2B-Orbis/Leadership-Assessment/ORBIS_Leadership-Assessment_FINAL Folder/Document fonts/Swiss 721 SWA.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:54241
+FileModTime:678802189
+NameArray:0,Mac,4,Swiss 721 SWA
+NameArray:0,Win,1,Swiss 721 SWA
+%EndFont
+
